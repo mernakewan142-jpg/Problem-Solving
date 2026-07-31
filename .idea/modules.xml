@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI Calculator/BMI Calculator.iml" filepath="$PROJECT_DIR$/BMI Calculator/BMI Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Electric Bill/Electric Bill.iml" filepath="$PROJECT_DIR$/Electric Bill/Electric Bill.iml" />
       <module fileurl="file://$PROJECT_DIR$/Restaurant Bill/Restaurant Bill.iml" filepath="$PROJECT_DIR$/Restaurant Bill/Restaurant Bill.iml" />
       <module fileurl="file://$PROJECT_DIR$/Student_Information_Card/Student_Information_Card.iml" filepath="$PROJECT_DIR$/Student_Information_Card/Student_Information_Card.iml" />
     </modules>
