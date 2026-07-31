@@ -17,6 +17,13 @@ public class Main{
         System.out.println("Enter Your GPA");
         double GPA = sc.nextDouble();
 
+        System.out.println("\n===== Student Card =====");
+        System.out.println("Name = " + Name);
+        System.out.println("Age = " + Age);
+        System.out.println("University = " + University);
+        System.out.println("GPA = " + GPA);
+        System.out.println("==========================");
+
 
     }
 }
