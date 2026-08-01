@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
+    public static double calculateBMI(double weight , double height){
+        return weight / (height * height);
+    }
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -11,7 +14,7 @@ public class Main {
         System.out.println("Enter your height (m) :");
         double height = sc.nextDouble();
 
-        double BMI = weight / (height * height);
+        double BMI = calculateBMI(weight , height);
         System.out.println("BMI = " + BMI);
 
         if (BMI < 18.5) {
