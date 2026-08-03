@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATM PIN Verification/ATM PIN Verification.iml" filepath="$PROJECT_DIR$/ATM PIN Verification/ATM PIN Verification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Armstrong Number/Armstrong Number.iml" filepath="$PROJECT_DIR$/Armstrong Number/Armstrong Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/BMI Calculator/BMI Calculator.iml" filepath="$PROJECT_DIR$/BMI Calculator/BMI Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Countdown Time/Countdown Time.iml" filepath="$PROJECT_DIR$/Countdown Time/Countdown Time.iml" />
       <module fileurl="file://$PROJECT_DIR$/Digit Statistics/Digit Statistics.iml" filepath="$PROJECT_DIR$/Digit Statistics/Digit Statistics.iml" />
